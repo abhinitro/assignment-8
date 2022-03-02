@@ -211,4 +211,8 @@ img.buffet {
       height: calc(100vh - 50px);
       overflow-y: auto;
     }
+
+    .nav > .nav-links > a {
+        background: white !important;
+    }
   }
